@@ -1,0 +1,125 @@
+body {
+    background-color: rgb(168, 192, 219);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;   
+    text-align: justify;
+    line-height: 1.5;
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+}
+
+.info{
+    float:left; 
+    text-align: justify;
+    width: 60%;
+    padding: 20px;
+}
+
+.photo{
+    float:right; 
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
+
+.antecedentes{
+    padding: 20px;    
+}
+
+.photo-antecedentes{
+    text-align: center;
+}
+
+.fase-clasificatoria{
+    width: 40%;
+    float: left;
+    padding: 50px;
+}
+
+.caf{
+    width: 16%;
+    float: right;
+    padding: 5px;
+}
+
+.uefa{
+    width: 16%;
+    float: right;
+    padding: 5px;
+}
+
+.conmebol{
+    width: 16%;
+    float: right;
+    padding: 5px;
+}
+
+.afc{
+    width: 16%;
+    float: right;
+    padding: 5px;
+}
+
+.concacaf{
+    width: 16%;
+    float: right;
+    padding: 5px;
+}
+
+.ofc{
+    width: 16%;
+    float: right    ;
+    padding: 5px;
+}
+
+
+.sistema-competicion{
+    width: 40%;
+    float: right;
+    padding: 50px;
+}
+
+.campeonatos{
+    width: 100%;
+    float: left;
+    padding: 0px;
+}
+
+.centrar-lista{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.table{
+
+}
+
+table {
+    width: 100%;
+    border: 1px solid #000;
+ }
+ 
+ th, td {
+    width: 5%;
+    font-size: 15px;   
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em
+ }
+
+ caption {
+    padding: 0.3em;
+    color: #fff;
+    background: #000;
+ }
+ th {
+    background: rgb(235, 222, 42);
+ }
+
+ 
